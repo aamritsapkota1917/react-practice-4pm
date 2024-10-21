@@ -1,0 +1,9 @@
+rafce
+ctel + h 
+ani input ko closing tag 
+ani class lai className ma lagyo 
+ani <a lai <Link ma 
+ani </a lai </Link ma lagyo 
+ani href lai to ma lagyo 
+ani import link react router dome hanyo 
+ ani control + f garera search garni 
